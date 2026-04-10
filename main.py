@@ -6,7 +6,7 @@ def mul(a,b):
 
 if __name__ == "__main__":
     main()
-    a= mult(2,5)
+    a= mul(2,5)
     print (a)
 
 
